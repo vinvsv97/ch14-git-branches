@@ -1,4 +1,5 @@
 # Exercise-1
+#this is an info 201 exercise
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 For this exercise, complete the following steps:
